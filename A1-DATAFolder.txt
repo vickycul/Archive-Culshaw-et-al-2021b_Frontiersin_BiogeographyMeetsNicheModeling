@@ -1,0 +1,14 @@
+## 
+## Title: Biogeography Meets Niche Modeling: Inferring the Role of Deep Time Climate Change When Data Is Limited
+## 
+## V Culshaw
+## M Mairal
+## I Sanmartin
+## 
+## Frontier: Ecology and Evolution.
+## 
+## doi: 10.3389/fevo.2021.662092 
+## First published 2021
+##
+
+Appendix 1. The geographic occurrence and climatic data used for ecological niche modelling in Camptoloma and Canarina. This data has been normalised (indicated by "_01" in file title) to lie within the closed boundaries [0, 1], and the hemispheres “flipped” (details in Material and Methods) to account for the “hemisphere effect”.This data was too large to upload onto github. If you wish to have it, please write to me (vickycul@hotmail.com) and I will work out how to send it to you.
